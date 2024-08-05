@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Software Used: EpicWare","Most Trusted Middleman Bot!"];
+const statusMessages = ["Software Used: EpicWare","Most Trusted Middleman Bot!", "Secured Data Saving and Trade History!"];
 
 
 let currentIndex = 0;
