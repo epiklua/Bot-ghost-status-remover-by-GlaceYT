@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Most Trusted MM Server!","ROBLOX KINGDOM GOATED"];
 
 
 let currentIndex = 0;
