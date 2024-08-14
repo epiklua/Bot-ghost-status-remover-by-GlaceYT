@@ -36,8 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Verified by EpicWare as Trusted Middleman Bot","Most Trusted Middleman Bot!", "Secured Data Saving and Trade History!", "Created with EpicWare!", "Most Certified Middleman Bot"];
-
+const statusMessages = ["Created with EpicWare", "Fully Functional", "Official EpicWare Bot"]
 
 let currentIndex = 0;
 const channelId = '';
