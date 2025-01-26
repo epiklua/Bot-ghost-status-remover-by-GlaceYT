@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Created with EpicWare", "Fully Functional", "Official EpicWare Bot"]
+const statusMessages = ["Automating Tickets", "Created by Epic", "Running Latest Version 1.0.5"]
 
 let currentIndex = 0;
 const channelId = '';
