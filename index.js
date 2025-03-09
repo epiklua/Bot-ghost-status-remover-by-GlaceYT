@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Automating Tickets", "Created by Epic", "Running Latest Version 1.0.5"]
+const statusMessages = ["Moderating Tickets", "Best on the Market!", "Running V1.0.5", "Get this Service at https://securedmiddlemanbotapi.dev!", "Best at Logging Tickets!", "Running Business Edition"]
 
 let currentIndex = 0;
 const channelId = '';
